@@ -6,6 +6,7 @@ int main(){
 	printf("%d\n",input);
 
 	if(input%3==0)prinf("fizz");
+
 }
 
 
